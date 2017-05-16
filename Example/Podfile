@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ios-rest-rx_Example' do
+  pod 'ios-rest-rx', :path => '../'
+
+  target 'ios-rest-rx_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
