@@ -1,0 +1,16 @@
+PODS:
+  - ios-rest-rx (0.1.0)
+
+DEPENDENCIES:
+  - ios-rest-rx (from `../`)
+
+EXTERNAL SOURCES:
+  ios-rest-rx:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ios-rest-rx: 9dba88348c5d1a1408d73a4430edec9549e5ceb8
+
+PODFILE CHECKSUM: 4887264b6f7c88b098e72556c2d619bbdca29b72
+
+COCOAPODS: 1.2.1

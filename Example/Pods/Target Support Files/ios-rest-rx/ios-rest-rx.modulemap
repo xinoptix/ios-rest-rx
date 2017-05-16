@@ -1,0 +1,6 @@
+framework module ios_rest_rx {
+  umbrella header "ios-rest-rx-umbrella.h"
+
+  export *
+  module * { export * }
+}

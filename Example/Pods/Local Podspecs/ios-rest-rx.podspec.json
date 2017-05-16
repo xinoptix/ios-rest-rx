@@ -1,0 +1,22 @@
+{
+  "name": "ios-rest-rx",
+  "version": "0.1.0",
+  "summary": "A short description of ios-rest-rx.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ivan.abundis@digitalonus.com/ios-rest-rx",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ivan.abundis@digitalonus.com": "heysoyivan@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ivan.abundis@digitalonus.com/ios-rest-rx.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ios-rest-rx/Classes/**/*"
+}
